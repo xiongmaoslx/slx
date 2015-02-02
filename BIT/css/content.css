@@ -1,0 +1,88 @@
+/*图形图库*/
+.mainTitle{width:920px;border-bottom:1px solid #d2d2d2;padding-bottom:15px;margin:5px 20px;padding-left:5px;}
+.levelIcon{display:inline-block;*display:inline;*zoom:1;font-size:0;width:30px;height:15px;background:url(../imgs/list/bread_crumb.png) no-repeat center;margin:0px 5px;}
+.mainCourseBox{padding:10px;}
+.courseUl{list-style:none;font-size:0;}
+.courseUl li{margin: 10px 9px;display:inline-block;*display:inline;*zoom:1;font-size:14px;width:217px;}
+.imgBox{width:180px;height:180px;margin:0 auto;border-radius:5px;padding:5px;}
+.imgText{padding:10px;}
+.imgText p{line-height:15px;}
+
+/*缩略图列表*/
+.listTable{width:100%;margin:auto 10px;margin-top:-8px;}
+.listTable td{padding:8px 0px;}
+.listTable tr td{vertical-align:middle}
+.listTable tr td:first-child{width:10%;}
+.listTable tr td:nth-child(2){width:20%}
+.listTable tr td:nth-child(4){width:13%}
+
+/*home03*/
+.commentUl {margin-top:-10px;}
+.commentUl li{list-style:none;margin:0px 47px;padding:20px 0px;border-bottom:1px solid #d2d2d2;}
+.commentUl li:last-child{border:none;border:0px;}
+.comment{position:relative;border:1px solid #d2d2d2;border-radius:5px;background:#dedede;}
+.commentUl li:nth-child(2n+1) .comment h3{border-bottom:1px solid #016dc0;}
+.commentUl li:nth-child(2n) .comment h3{border-bottom:1px solid #f48100;}
+.commentUl li:nth-child(2n+1) .comment h3 span{background:#016dc0;}
+.commentUl li:nth-child(2n) .comment h3 span{background:#f48100;}
+.comment h3 span{display:inline-block;*display:inline;*zoom:1;line-height:40px;line-height:40px;border-top-left-radius:5px;border-top-right-radius:5px;color:#fff;padding:0px 10px;}
+.comment p{padding:30px 20px;line-height:25px;}
+.comment .time{position:absolute;top:15px;right:20px;color:#f45702;}
+
+.courseIntroductionIcon{background:url(../imgs/list/course_introduction.png) no-repeat center;}
+.courseResponseIcon{background:url(../imgs/list/course_response.png) no-repeat center;}
+.courseOutlineIcon{background:url(../imgs/list/course_outline.png) no-repeat center;}
+.courseDesignIcon{background:url(../imgs/list/course_design.png) no-repeat center;}
+.courseTVIcon{background:url(../imgs/list/course_TV.png) no-repeat center;}
+.coursePPTIcon{background:url(../imgs/list/course_PPT.png) no-repeat center;}
+.courseProgramIcon{background:url(../imgs/list/course_program.png) no-repeat center;}
+.courseBookIcon{background:url(../imgs/list/course_book.png) no-repeat center;}
+.courseCalendarIcon{background:url(../imgs/list/course_calendar.png) no-repeat center;}
+.evaluationIcon{background:url(../imgs/list/Evaluation.png) no-repeat center;}
+.studyGuideIcon{background:url(../imgs/list/study_guide.png) no-repeat center;}
+.courseAnimationIcon{background:url(../imgs/list/course_animation.png) no-repeat center;}
+.courseRuleIcon{background:url(../imgs/list/course_rule.png) no-repeat center;}
+.boolListIcon{background:url(../imgs/list/book_icon_list.png) no-repeat center;}
+
+
+/*课程中心*/
+.lessionModule{padding:0px 20px;}
+.lessionModule h5{border-bottom:1px solid #d2d2d2;font-size:0;text-align:center;padding: 12px 0px;}
+.lessionModule h5 span{line-height:30px;line-height:30px;position:relative;display:inline-block;*display:inline;*zoom:1;font-size:20px;}
+.iIcon{position:absolute;left:-30px;width:20px;height:20px;top:5px;}
+.lessionArcticle{padding:50px 40px;}
+.lessionArcticle>p{line-height:25px;text-indent: 30px;}
+.arcticleTableBox{padding:0px 40px;}
+.arcticleTableBox>table{border-collapse:collapse;width:100%;}
+.arcticleTableBox>table th,.arcticleTableBox>table td{border:1px solid #d2d2d2;line-height:25px;}
+
+.videoModule{padding:0px;}
+.videoModule>.lessionArcticle{padding:0px;}
+.videoUl{padding: 20px 10px;}
+.designUl{list-style:none;}
+.designUl li{line-height:20px;height:20px;padding:5px;font-size:16px;}
+.designUl li>a{padding-left:40px;position:relative;}
+.designLiIcon{width:30px;height:25px;position:absolute;left:0px;top:-5px;}
+.videoModule>div.padding20{padding:20px;}
+
+/*垂直导航*/
+
+.verticalNav{position:absolute;list-style:none;left:980px;top:200px;width:100px;} 
+.verticalNav li{height:30px;font-size:0;}
+.verticalNav li a{display:inline-block;*display:inline;*zoom:1;font-size:14px;line-height:30px;}
+.verticalCircle{width:10px;height:30px;background:orange;display:inline-block;} 
+
+.arcticle{padding:10px 40px;}
+.arcticle>p{line-height:25px;text-indent: 30px;}
+
+#test1{width:50px;height:50px;padding:5px;border-radius:5px;border:1px solid #ccc;margin:0 auto;}
+
+
+
+
+
+
+
+
+
+
